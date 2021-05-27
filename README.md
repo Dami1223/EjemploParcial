@@ -23,3 +23,4 @@ Escriba un algoritmo que totalice la suma de valores suministrados mediante un a
 Este respoitorio demuestra cómo utilizar la estructura suministrada para resolverlo.
 # EjemploParcial
 # EjemploParcial
+# EjemploParcial
